@@ -20,3 +20,6 @@ if (!Rpush::Gcm::App.find_by_name("pushme_droid"))
 end
 4. rails g controller notification
 5. config/routes
+
+Source:
+https://www.codementor.io/foysalit/send-push-notification-from-rails-to-an-ionic-app-a75dmbvq3
